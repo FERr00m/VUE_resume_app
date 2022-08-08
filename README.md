@@ -1,5 +1,5 @@
 # https://vue-resume-app-5d34b.web.app/
-
+## Практика с Vue. Приложение для создания резюме
 # minin_course_exam1
 
 ## Project setup
